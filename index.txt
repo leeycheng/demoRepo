@@ -1,1 +1,2 @@
 Demo test
+In release 1, add newindex.txt and modify index.txt.
